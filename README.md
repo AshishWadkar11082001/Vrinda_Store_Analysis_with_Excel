@@ -4,7 +4,7 @@ This GitHub repository contains a comprehensive sales analysis project for Vrind
 
 ## Project Overview
 The project encompasses an in-depth analysis of Vrinda Store's sales data, aiming to uncover key patterns, trends, and factors influencing sales. The analysis primarily focuses on identifying the top contributing states, gender preferences, significant sales channels, and target age groups. These insights serve as a foundation for formulating effective strategies to enhance sales.
-##Data Analysis Features
+## Data Analysis Features
 Data Processing: The project includes robust data processing capabilities, allowing efficient handling and manipulation of the sales dataset. This feature ensures that the data is prepared for analysis, including tasks such as data cleaning, transformation, and formatting.
 
 Data Cleansing: With data cleansing features, the project effectively identifies and corrects any errors, inconsistencies, or missing values within the sales dataset. This ensures the accuracy and integrity of the data, providing reliable insights for analysis.
